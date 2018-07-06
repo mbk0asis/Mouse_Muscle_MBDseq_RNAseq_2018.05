@@ -11,7 +11,7 @@ bigDataUrl https://raw.githubusercontent.com/mbk0asis/Mouse_Muscle_MBDseq_RNAseq
 shortLabel MBDseq.Tcell.20m.bin500.Old.bw
 longLabel MBDseq.Tcell.20m.bin500.Old.bw
 type bigWig
-color 255,102,0
+color 153,102,0
 
 track MBDseq.Tcell.28m.bin500.Old.bw
 bigDataUrl https://raw.githubusercontent.com/mbk0asis/Mouse_Muscle_MBDseq_RNAseq.Muscle_2018.05/master/track_hub/mm10/MBDseq.Tcell.28m.bin500.Old.bw
