@@ -1,6 +1,6 @@
 hub my_UCSCHub
 shortLabel MBDseq_2018
 longLabel MBDseq_2018
-genomesFile https://raw.githubusercontent.com/mbk0asis/MBDseq_2018.05/master/track_hub/genomes.txt
+genomesFile https://raw.githubusercontent.com/mbk0asis/Mouse_Muscle_MBDseq_RNAseq_2018.05/master/track_hub/genomes.txt
 email mbk0asis@gmail.com
-descriptionUrl https://raw.githubusercontent.com/mbk0asis/MBDseq_2018.05/master/track_hub/
+descriptionUrl https://raw.githubusercontent.com/mbk0asis/Mouse_Muscle_MBDseq_RNAseq_2018.05/master/track_hub/
