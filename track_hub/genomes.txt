@@ -1,0 +1,2 @@
+genome mm10
+trackDb https://raw.githubusercontent.com/mbk0asis/MBDseq_2018.05/master/track_hub/mm10/trackDb.txt
