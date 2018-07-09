@@ -35,38 +35,14 @@ bigDataUrl https://raw.githubusercontent.com/mbk0asis/Mouse_Muscle_MBDseq_RNAseq
 shortLabel MBDseq.Muscle.20m.bin500.Old.bw
 longLabel MBDseq.Muscle.20m.bin500.Old.bw
 type bigWig
-color 0,102,0
+color 0,110,0
 
 track MBDseq.Muscle.28m.bin500.Old.bw
 bigDataUrl https://raw.githubusercontent.com/mbk0asis/Mouse_Muscle_MBDseq_RNAseq_2018.05/master/track_hub/mm10/MBDseq.Muscle.02m.bin500.Old.bw
 shortLabel MBDseq.Muscle.28m.bin500.Old.bw
 longLabel MBDseq.Muscle.28m.bin500.Old.bw
 type bigWig
-color 0,51,0
-
-
-
-# MBD New bin100
-track MBDseq.Muscle.02m.bin100.New.bw
-bigDataUrl https://raw.githubusercontent.com/mbk0asis/Mouse_Muscle_MBDseq_RNAseq_2018.05/master/track_hub/mm10/MBDseq.Muscle.02m.bin100.New.bw
-shortLabel MBDseq.Muscle.02m.bin100.New.bw
-longLabel MBDseq.Muscle.02m.bin100.New.bw
-type bigWig
-color 0,153,51
-
-track MBDseq.Muscle.20m.bin100.New.bw
-bigDataUrl https://raw.githubusercontent.com/mbk0asis/Mouse_Muscle_MBDseq_RNAseq_2018.05/master/track_hub/mm10/MBDseq.Muscle.02m.bin100.New.bw
-shortLabel MBDseq.Muscle.20m.bin100.New.bw
-longLabel MBDseq.Muscle.20m.bin100.New.bw
-type bigWig
-color 0,153,51
-
-track MBDseq.Muscle.28m.bin100.New.bw
-bigDataUrl https://raw.githubusercontent.com/mbk0asis/Mouse_Muscle_MBDseq_RNAseq_2018.05/master/track_hub/mm10/MBDseq.Muscle.02m.bin100.New.bw
-shortLabel MBDseq.Muscle.28m.bin100.New.bw
-longLabel MBDseq.Muscle.28m.bin100.New.bw
-type bigWig
-color 0,153,51
+color 0,50,0
 
 
 
