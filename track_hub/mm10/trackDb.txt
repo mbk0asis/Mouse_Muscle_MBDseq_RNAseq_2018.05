@@ -31,14 +31,14 @@ type bigWig
 color 50,200,50
 
 track MBDseq.Muscle.20m.bin500.Old.bw
-bigDataUrl https://raw.githubusercontent.com/mbk0asis/Mouse_Muscle_MBDseq_RNAseq_2018.05/master/track_hub/mm10/MBDseq.Muscle.02m.bin500.Old.bw
+bigDataUrl https://raw.githubusercontent.com/mbk0asis/Mouse_Muscle_MBDseq_RNAseq_2018.05/master/track_hub/mm10/MBDseq.Muscle.20m.bin500.Old.bw
 shortLabel MBDseq.Muscle.20m.bin500.Old.bw
 longLabel MBDseq.Muscle.20m.bin500.Old.bw
 type bigWig
 color 0,110,0
 
 track MBDseq.Muscle.28m.bin500.Old.bw
-bigDataUrl https://raw.githubusercontent.com/mbk0asis/Mouse_Muscle_MBDseq_RNAseq_2018.05/master/track_hub/mm10/MBDseq.Muscle.02m.bin500.Old.bw
+bigDataUrl https://raw.githubusercontent.com/mbk0asis/Mouse_Muscle_MBDseq_RNAseq_2018.05/master/track_hub/mm10/MBDseq.Muscle.28m.bin500.Old.bw
 shortLabel MBDseq.Muscle.28m.bin500.Old.bw
 longLabel MBDseq.Muscle.28m.bin500.Old.bw
 type bigWig
