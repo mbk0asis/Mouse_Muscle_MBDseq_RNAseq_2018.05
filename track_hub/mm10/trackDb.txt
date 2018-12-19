@@ -1,3 +1,37 @@
+track all_fun
+container multiWig
+shortLabel all_fun
+longLabel all_fun
+type bigWig 0 30000
+viewLimits 0:100
+visibility full
+maxHeightPixels 150:30:11
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+windowingFunction mean
+priority 1.4
+configurable on
+autoScale on
+
+
+track MBDseq.Tcell.02m.bin500.Old.bw
+bigDataUrl https://raw.githubusercontent.com/mbk0asis/Mouse_Muscle_MBDseq_RNAseq_2018.05/master/track_hub/mm10/MBDseq.Tcell.02m.bin500.Old.bw
+shortLabel MBDseq.Tcell.02m.bin500.Old.bw
+longLabel MBDseq.Tcell.02m.bin500.Old.bw
+type bigWig
+parent all_fun
+color 255,152,0
+
+track MBDseq.Tcell.28m.bin500.Old.bw
+bigDataUrl https://raw.githubusercontent.com/mbk0asis/Mouse_Muscle_MBDseq_RNAseq_2018.05/master/track_hub/mm10/MBDseq.Tcell.28m.bin500.Old.bw
+shortLabel MBDseq.Tcell.28m.bin500.Old.bw
+longLabel MBDseq.Tcell.28m.bin500.Old.bw
+parent all_fun
+type bigWig
+color 128,0,0
+
+
+
 # MBD Tcell Old bin500
 track MBDseq.Tcell.02m.bin500.Old.bw
 bigDataUrl https://raw.githubusercontent.com/mbk0asis/Mouse_Muscle_MBDseq_RNAseq_2018.05/master/track_hub/mm10/MBDseq.Tcell.02m.bin500.Old.bw
@@ -19,7 +53,6 @@ shortLabel MBDseq.Tcell.28m.bin500.Old.bw
 longLabel MBDseq.Tcell.28m.bin500.Old.bw
 type bigWig
 color 128,0,0
-
 
 
 # MBD Muscle Old bin500
