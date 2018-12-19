@@ -63,7 +63,6 @@ type bigWig
 color 0,50,0
 
 
-
 # MBD New bin500
 track MBDseq.Muscle.02m.bin500.New.bw
 bigDataUrl https://raw.githubusercontent.com/mbk0asis/Mouse_Muscle_MBDseq_RNAseq_2018.05/master/track_hub/mm10/MBDseq.Muscle.02m.bin500.New.bw
