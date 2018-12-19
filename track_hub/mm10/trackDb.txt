@@ -14,7 +14,7 @@ configurable on
 autoScale on
 
 
-track MBDseq.Tcell.02m.bin500.Old.bw
+track MBDseq.Tcell.02m.bin500.Old.bw.Overlay
 bigDataUrl https://raw.githubusercontent.com/mbk0asis/Mouse_Muscle_MBDseq_RNAseq_2018.05/master/track_hub/mm10/MBDseq.Tcell.02m.bin500.Old.bw
 shortLabel MBDseq.Tcell.02m.bin500.Old.bw
 longLabel MBDseq.Tcell.02m.bin500.Old.bw
@@ -22,7 +22,7 @@ type bigWig
 parent all_fun
 color 255,152,0
 
-track MBDseq.Tcell.28m.bin500.Old.bw
+track MBDseq.Tcell.28m.bin500.Old.bw.Overlay
 bigDataUrl https://raw.githubusercontent.com/mbk0asis/Mouse_Muscle_MBDseq_RNAseq_2018.05/master/track_hub/mm10/MBDseq.Tcell.28m.bin500.Old.bw
 shortLabel MBDseq.Tcell.28m.bin500.Old.bw
 longLabel MBDseq.Tcell.28m.bin500.Old.bw
