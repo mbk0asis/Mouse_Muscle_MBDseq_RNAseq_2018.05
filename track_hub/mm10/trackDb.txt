@@ -78,7 +78,7 @@ shortLabel MBDseq.Muscle.02m.bin500.Old.bw
 longLabel MBDseq.Muscle.02m.bin500.Old.bw
 parent muscle_2m_vs_28m
 type bigWig
-color 0,50,0
+color 0,50,150
 
 
 # MBD New bin500
