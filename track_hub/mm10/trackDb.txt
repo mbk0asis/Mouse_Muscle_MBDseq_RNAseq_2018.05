@@ -63,7 +63,7 @@ shortLabel MBDseq.Muscle.28m.bin500.Old.bw
 longLabel MBDseq.Muscle.28m.bin500.Old.bw
 parent muscle_2m_vs_28m
 type bigWig
-color 50,50,200
+color 255,0,102
 
 track MBDseq.Muscle.20m.bin500.Old.bw
 bigDataUrl https://raw.githubusercontent.com/mbk0asis/Mouse_Muscle_MBDseq_RNAseq_2018.05/master/track_hub/mm10/MBDseq.Muscle.20m.bin500.Old.bw
