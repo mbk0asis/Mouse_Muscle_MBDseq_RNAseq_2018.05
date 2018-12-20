@@ -22,8 +22,10 @@ shortLabel MBDseq.Tcell.28m.bin500.Old.bw
 longLabel MBDseq.Tcell.28m.bin500.Old.bw
 parent Tcell_2m_vs_28m
 type bigWig
-color 102,153,0 # green
-#color 51,153,255 # blue
+# green
+color 102,153,0  
+# blue
+#color 51,153,255 
 
 track MBDseq.Tcell.20m.bin500.Old.bw
 bigDataUrl https://raw.githubusercontent.com/mbk0asis/Mouse_Muscle_MBDseq_RNAseq_2018.05/master/track_hub/mm10/MBDseq.Tcell.20m.bin500.Old.bw
@@ -38,8 +40,10 @@ shortLabel MBDseq.Tcell.02m.bin500.Old.bw
 longLabel MBDseq.Tcell.02m.bin500.Old.bw
 parent Tcell_2m_vs_28m
 type bigWig
-color 255,153,102 # orange
-#color 255,51,204 # red
+# orange
+color 255,153,102
+# red
+#color 255,51,204 
 
 
 # Overlay tracks - Muscle
@@ -65,8 +69,10 @@ shortLabel MBDseq.Muscle.28m.bin500.Old.bw
 longLabel MBDseq.Muscle.28m.bin500.Old.bw
 parent muscle_2m_vs_28m
 type bigWig
-color 102,153,0 # green
-#color 51,153,255 # blue
+# green
+color 102,153,0
+# blue
+#color 51,153,255 
 
 track MBDseq.Muscle.20m.bin500.Old.bw
 bigDataUrl https://raw.githubusercontent.com/mbk0asis/Mouse_Muscle_MBDseq_RNAseq_2018.05/master/track_hub/mm10/MBDseq.Muscle.20m.bin500.Old.bw
@@ -81,8 +87,10 @@ shortLabel MBDseq.Muscle.02m.bin500.Old.bw
 longLabel MBDseq.Muscle.02m.bin500.Old.bw
 parent muscle_2m_vs_28m
 type bigWig
-color 255,153,102 # orange
-#color 255,51,204 # red
+# orange
+color 255,153,102 
+# red
+#color 255,51,204 
 
 
 # MBD New bin500
