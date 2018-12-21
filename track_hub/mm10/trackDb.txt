@@ -25,7 +25,7 @@ type bigWig
 # green
 #color 102,153,0  
 # blue
-color 51,153,255 
+color 51,200,255 
 
 track MBDseq.Tcell.20m.bin500.Old.bw
 bigDataUrl https://raw.githubusercontent.com/mbk0asis/Mouse_Muscle_MBDseq_RNAseq_2018.05/master/track_hub/mm10/MBDseq.Tcell.20m.bin500.Old.bw
@@ -72,7 +72,7 @@ type bigWig
 # green
 #color 102,153,0
 # blue
-color 51,153,255 
+color 51,200,255 
 
 track MBDseq.Muscle.20m.bin500.Old.bw
 bigDataUrl https://raw.githubusercontent.com/mbk0asis/Mouse_Muscle_MBDseq_RNAseq_2018.05/master/track_hub/mm10/MBDseq.Muscle.20m.bin500.Old.bw
