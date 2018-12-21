@@ -23,7 +23,7 @@ longLabel MBDseq.Tcell.28m.bin500.Old.bw
 parent Tcell_2m_vs_28m
 type bigWig
 # green
-color 155,255,155
+color 0,255,155
 # blue
 #color 0,0,255 
 
@@ -43,7 +43,7 @@ type bigWig
 # orange
 #color 255,153,102
 # red
-color 255,155,255 
+color 255,155,0 
 
 
 # Overlay tracks - Muscle
@@ -70,7 +70,7 @@ longLabel MBDseq.Muscle.28m.bin500.Old.bw
 parent muscle_2m_vs_28m
 type bigWig
 # green
-color 155,255,155
+color 0,255,155
 # blue
 #color 0,0,255 
 
@@ -90,7 +90,7 @@ type bigWig
 # orange
 #color 255,153,102 
 # red
-color 255,155,255 
+color 255,155,0 
 
 
 # MBD New bin500
