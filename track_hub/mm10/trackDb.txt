@@ -43,7 +43,7 @@ type bigWig
 # orange
 #color 255,153,102
 # red
-color 255,150,0 
+color 255,0,150 
 
 
 # Overlay tracks - Muscle
@@ -90,7 +90,7 @@ type bigWig
 # orange
 #color 255,153,102 
 # red
-color 255,150,0 
+color 255,0,150 
 
 
 # MBD New bin500
