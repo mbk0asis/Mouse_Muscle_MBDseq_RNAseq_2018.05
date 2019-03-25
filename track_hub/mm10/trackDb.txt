@@ -67,7 +67,7 @@ track MBDseq.Muscle.28m.bin500.Old.bw
 bigDataUrl https://raw.githubusercontent.com/mbk0asis/Mouse_Muscle_MBDseq_RNAseq_2018.05/master/track_hub/mm10/MBDseq.Muscle.28m.bin500.Old.bw
 shortLabel MBDseq.Muscle.28m.bin500.Old.bw
 longLabel MBDseq.Muscle.28m.bin500.Old.bw
-parent muscle_2m_vs_28m
+#parent muscle_2m_vs_28m
 type bigWig
 # green
 #color 0,255,50
@@ -85,7 +85,7 @@ track MBDseq.Muscle.02m.bin500.Old.bw
 bigDataUrl https://raw.githubusercontent.com/mbk0asis/Mouse_Muscle_MBDseq_RNAseq_2018.05/master/track_hub/mm10/MBDseq.Muscle.02m.bin500.Old.bw
 shortLabel MBDseq.Muscle.02m.bin500.Old.bw
 longLabel MBDseq.Muscle.02m.bin500.Old.bw
-parent muscle_2m_vs_28m
+#parent muscle_2m_vs_28m
 type bigWig
 # orange
 #color 255,153,102 
