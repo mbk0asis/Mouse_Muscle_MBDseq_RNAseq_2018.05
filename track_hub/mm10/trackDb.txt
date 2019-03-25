@@ -45,7 +45,7 @@ type bigWig
 # red
 color 255,0,150 
 
-
+##################################################################################################
 # Overlay tracks - Muscle
 track muscle_2m_vs_28m
 container multiWig
@@ -69,9 +69,6 @@ shortLabel MBDseq.Muscle.28m.bin500.Old.bw
 longLabel MBDseq.Muscle.28m.bin500.Old.bw
 #parent muscle_2m_vs_28m
 type bigWig
-# green
-#color 0,255,50
-# blue
 color 0,180,255 
 
 track MBDseq.Muscle.20m.bin500.Old.bw
@@ -87,12 +84,9 @@ shortLabel MBDseq.Muscle.02m.bin500.Old.bw
 longLabel MBDseq.Muscle.02m.bin500.Old.bw
 #parent muscle_2m_vs_28m
 type bigWig
-# orange
-#color 255,153,102 
-# red
 color 255,0,150 
 
-
+##################################################################################################
 # MBD New bin500
 track MBDseq.Muscle.02m.bin500.New.bw
 bigDataUrl https://raw.githubusercontent.com/mbk0asis/Mouse_Muscle_MBDseq_RNAseq_2018.05/master/track_hub/mm10/MBDseq.Muscle.02m.bin500.New.bw
@@ -116,7 +110,7 @@ type bigWig
 color 77,46,0
 
 
-
+##################################################################################################
 # WT 02 RNAseq.Muscle
 track RNAseq.Muscle.WT-02M-1.bw
 bigDataUrl https://raw.githubusercontent.com/mbk0asis/Mouse_Muscle_MBDseq_RNAseq_2018.05/master/track_hub/mm10/RNAseq.Muscle.WT-02M-1.bw
@@ -140,7 +134,7 @@ type bigWig
 color 51,153,255
 
 
-
+##################################################################################################
 # WT 20 RNAseq.Muscle
 track RNAseq.Muscle.WT-20M-1.bw
 bigDataUrl https://raw.githubusercontent.com/mbk0asis/Mouse_Muscle_MBDseq_RNAseq_2018.05/master/track_hub/mm10/RNAseq.Muscle.WT-20M-1.bw
@@ -164,7 +158,7 @@ type bigWig
 color 0,0,255
 
 
-
+##################################################################################################
 # WT 28 RNAseq.Muscle
 track RNAseq.Muscle.WT-28M-1.bw
 bigDataUrl https://raw.githubusercontent.com/mbk0asis/Mouse_Muscle_MBDseq_RNAseq_2018.05/master/track_hub/mm10/RNAseq.Muscle.WT-28M-1.bw
@@ -188,7 +182,7 @@ type bigWig
 color 0,0,102
 
 
-
+##################################################################################################
 # HD 02 RNAseq.Muscle
 track RNAseq.Muscle.HD-02M-1.bw
 bigDataUrl https://raw.githubusercontent.com/mbk0asis/Mouse_Muscle_MBDseq_RNAseq_2018.05/master/track_hub/mm10/RNAseq.Muscle.HD-02M-1.bw
@@ -212,7 +206,7 @@ type bigWig
 color 255,51,153
 
 
-
+##################################################################################################
 # HD 16 RNAseq.Muscle
 track RNAseq.Muscle.HD-16M-1.bw
 bigDataUrl https://raw.githubusercontent.com/mbk0asis/Mouse_Muscle_MBDseq_RNAseq_2018.05/master/track_hub/mm10/RNAseq.Muscle.HD-16M-1.bw
